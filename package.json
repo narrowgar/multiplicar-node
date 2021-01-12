@@ -1,0 +1,15 @@
+{
+  "name": "03-bases",
+  "version": "1.0.0",
+  "description": "Esta e suna aplicacion de linea de compando\u001b[3\u001b[3~ando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fabian navarro",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
